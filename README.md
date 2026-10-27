@@ -1,4 +1,4 @@
-# Varando do Esperto — Login
+# Varanda do Espeto — Login
 
 Tela de login responsiva com suporte a autenticação Supabase.
 
